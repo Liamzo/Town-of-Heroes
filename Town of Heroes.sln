@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{BC1752E5-7104-49F2-27B8-50BF34B57AC4}") = "Town of Heroes", "Assembly-CSharp.csproj", "{9ECACD53-A625-CBE8-6FC2-ACB89858FBE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ECACD53-A625-CBE8-6FC2-ACB89858FBE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ECACD53-A625-CBE8-6FC2-ACB89858FBE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ECACD53-A625-CBE8-6FC2-ACB89858FBE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ECACD53-A625-CBE8-6FC2-ACB89858FBE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
